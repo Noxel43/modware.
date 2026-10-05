@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — started planning the macro pad and started the bom and items i will need](#2026-10-05-started-planning-the-macro-pad-and-started-the-bo)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — started planning the macro pad and started the bom and items i will need
 
 **0.78h**
+
+started planning the macro pad and started the bom and items i will need
 
 [Timelapse](https://lookout.hackclub.com/api/media/9bd113ce-6953-460c-87a9-174530f75bcf/video.mp4)
